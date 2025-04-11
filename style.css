@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* height: 100%;
+    width: 100%; */
+}    
+
+.arriba{
+    width: 100%;
+    height: 25vh;
+    background-color: #e4e2e2;
+}
+
+.medio{
+    width: 100%;
+    height: 35vh;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.medio_der{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+}
+
+.medio_izq{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+   
+}
+
+
+.abajo{
+    width: 100%;
+    height: 40vh;
+    background-color: #e4e2e2;
+}
+
+.imagen{
+    width: 50%;
+    height: 100%;
+    /*padding-left: 10rem;*/
+}
+
