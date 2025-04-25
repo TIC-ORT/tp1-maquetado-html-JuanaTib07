@@ -1,0 +1,50 @@
+<div class="nav-bar">
+    <div class="search">
+      <input type="text">
+      <button></button>
+    </div>
+  </div>
+  <nav>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-image"></div>
+  <div class="hero-text">
+    <div></div>
+    <p></p>
+    <p></p>
+    <p></p>
+  </div>
+</section>
+
+<section class="cards">
+  <div class="card red">
+    <div class="card-top"></div>
+    <div class="card-content">
+      <div></div>
+      <p></p>
+      <p></p>
+    </div>
+  </div>
+  <div class="card blue">
+    <div class="card-top"></div>
+    <div class="card-content">
+      <div></div>
+      <p></p>
+      <p></p>
+    </div>
+  </div>
+  <div class="card yellow">
+    <div class="card-top"></div>
+    <div class="card-content">
+      <div></div>
+      <p></p>
+      <p></p>
+    </div>
+  </div>
+</section>
