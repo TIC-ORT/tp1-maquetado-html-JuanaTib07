@@ -2,50 +2,70 @@
     padding: 0;
     margin: 0;
     /* height: 100%;
-    width: 100%; */
-}    
+    width: 100%; */   
+}
 
 .arriba{
     width: 100%;
-    height: 25vh;
-    background-color: #e4e2e2;
+    height: 32vh;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 
 .medio{
     width: 100%;
-    height: 35vh;
-    background-color: lightblue;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: 36vh;
+    background-color: red;
 }
-
-.medio_der{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 40%;
-}
-
-.medio_izq{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 60%;
-   
-}
-
 
 .abajo{
     width: 100%;
-    height: 40vh;
-    background-color: #e4e2e2;
+    height: 32vh;
+    background-color: blue;
 }
 
-.imagen{
+.cuadrado {
+    width: 30rem;          
+    height: 5rem;          
+    background: red; 
     display: flex;
     align-items: center;
-    justify-content: center;
-    width: 30%;
+    justify-content: center;       
+  }
+
+.cuadradito{
+    width: 25rem;          
+    height: 2rem;          
+    background: white; 
+    display: flex;
+    align-items: center;
+    justify-content: right;
 }
 
+.buscar{
+    width: 3rem;          
+    height: 2rem;          
+    background: grey;
+}
+
+.section_a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.linea{
+    width: 10rem;          
+    height: 1rem;          
+    background: grey;
+    margin-top: 5%;
+}
+
+nav{
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
